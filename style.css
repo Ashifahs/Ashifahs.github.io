@@ -1,0 +1,11 @@
+.img{
+    width: 100%;
+    height: 50px;
+    max-width: 50px;
+}
+card-body{
+    background-color: sienna;
+}
+.jumbotron {
+    align-items: center;
+}
